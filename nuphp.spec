@@ -3,7 +3,7 @@
 
 Name:           %{name}
 Version:        %{version}
-Release:        %mkrel 2
+Release:        %mkrel 3
 License: 	GPLv3
 Summary: nuphp is a PHP4 and PHP5 library used by Nuface2 and other projects
 URL: http://software.inl.fr/trac/wiki/nuphp
